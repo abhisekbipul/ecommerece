@@ -10,6 +10,16 @@ builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlSer
     builder.Configuration.GetConnectionString("dbconn")
    ));
 
+builder.Services.AddSession(option =>
+    {
+        option.IdleTimeout=TimeSpan.FromMinutes(5);
+        option.Cookie.HttpOnly = true;
+        option.Cookie.IsEssential = true;
+    });
+
+
+builder.Services.AddHttpContextAccessor();  
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -20,6 +30,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+app.UseSession();
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 

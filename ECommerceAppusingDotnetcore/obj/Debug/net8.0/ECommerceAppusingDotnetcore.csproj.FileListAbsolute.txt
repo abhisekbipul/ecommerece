@@ -73,3 +73,4 @@ C:\Users\LENOVO\Source\Repos\ECommerceAppusingDotnetcore\ECommerceAppusingDotnet
 C:\Users\LENOVO\Source\Repos\ECommerceAppusingDotnetcore\ECommerceAppusingDotnetcore\obj\Debug\net8.0\ECommerceAppusingDotnetcore.pdb
 C:\Users\LENOVO\Source\Repos\ECommerceAppusingDotnetcore\ECommerceAppusingDotnetcore\obj\Debug\net8.0\ECommerceAppusingDotnetcore.genruntimeconfig.cache
 C:\Users\LENOVO\Source\Repos\ECommerceAppusingDotnetcore\ECommerceAppusingDotnetcore\obj\Debug\net8.0\ref\ECommerceAppusingDotnetcore.dll
+C:\Users\LENOVO\Source\Repos\ECommerceAppusingDotnetcore\ECommerceAppusingDotnetcore\obj\Debug\net8.0\ECommerceAppusingDotnetcore.sourcelink.json
