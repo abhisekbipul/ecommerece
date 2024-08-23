@@ -9,6 +9,8 @@ namespace ECommerceAppusingDotnetcore.Data
         { }
 
         public DbSet<User> user { get; set; }
+        public DbSet<Product> myproducts { get; set; }
+        public DbSet<Cart> Mycart { get; set; }
 
     }
 }

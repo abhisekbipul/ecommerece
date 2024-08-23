@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ECommerceAppusingDotnetcore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a7099ef9ff9e75020a4749051c62f07630b8521")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cabc15f43b0a67876516a5d06d8b0dd733d7c7ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("ECommerceAppusingDotnetcore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ECommerceAppusingDotnetcore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

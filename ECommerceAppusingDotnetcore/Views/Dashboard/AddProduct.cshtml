@@ -1,0 +1,17 @@
+﻿@model ProductViewModel
+
+<form method="post" enctype="multipart/form-data">
+    Product Name<input type="text" asp-for="Pname" class="form-control" /><br />
+    
+    Product Category
+    <select class="form-control" asp-for="Pcat">
+        <option>Electronics</option>
+        <option>Clothes</option>
+        <option>Others</option>
+    </select><br />
+
+    Product Price<input type="text" asp-for="Price" class="form-control" /><br />
+    Product Image<input type="file" asp-for="Picture" class="form-control" /><br />
+
+    <input type="submit" value="Save" class="btn btn-info" />
+</form>

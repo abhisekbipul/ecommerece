@@ -5,6 +5,26 @@
       "PackagePath": "staticwebassets\\ECommerceAppusingDotnetcore.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\Source\\Repos\\ECommerceAppusingDotnetcore\\ECommerceAppusingDotnetcore\\wwwroot\\Content\\Images\\laptop.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\laptop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Source\\Repos\\ECommerceAppusingDotnetcore\\ECommerceAppusingDotnetcore\\wwwroot\\Content\\Images\\laptop1.jfif",
+      "PackagePath": "staticwebassets\\Content\\Images\\laptop1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Source\\Repos\\ECommerceAppusingDotnetcore\\ECommerceAppusingDotnetcore\\wwwroot\\Content\\Images\\mobile.jfif",
+      "PackagePath": "staticwebassets\\Content\\Images\\mobile.jfif"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Source\\Repos\\ECommerceAppusingDotnetcore\\ECommerceAppusingDotnetcore\\wwwroot\\Content\\Images\\mobile.jpeg",
+      "PackagePath": "staticwebassets\\Content\\Images\\mobile.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Source\\Repos\\ECommerceAppusingDotnetcore\\ECommerceAppusingDotnetcore\\wwwroot\\Content\\Images\\mobile2.jfif",
+      "PackagePath": "staticwebassets\\Content\\Images\\mobile2.jfif"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\Source\\Repos\\ECommerceAppusingDotnetcore\\ECommerceAppusingDotnetcore\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

@@ -2,7 +2,7 @@
 
 namespace ECommerceAppusingDotnetcore.Models
 {
-    public class Product
+    public class Cart
     {
         [Key]
         public int Pid { get; set; }
@@ -10,5 +10,6 @@ namespace ECommerceAppusingDotnetcore.Models
         public string? Pcat { get; set; }
         public string? Picture { get; set; }
         public double Price { get; set; }
+        public string? Suser {  get; set; }
     }
 }
